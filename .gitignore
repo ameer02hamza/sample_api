@@ -1,0 +1,7 @@
+drest/
+timeManagement/migrations/
+labourManagement/__pycache__/wsgi.cpython-38.pyc
+labourManagement/__pycache__/urls.cpython-38.pyc
+labourManagement/__pycache__/settings.cpython-38.pyc
+labourManagement/__pycache__/__init__.cpython-38.pyc
+.idea/
